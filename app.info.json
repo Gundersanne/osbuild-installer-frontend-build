@@ -1,0 +1,11 @@
+{
+  "app_name": "osbuild-installer",
+  "src_hash": "bd196df7c2dbfcc7a18dd793ed64c636399545c7",
+  "src_tag": "",
+  "src_branch": "master",
+  "travis": {
+    "event_type": "push",
+    "build_number": "13",
+    "build_web_url": "https://travis-ci.com/Gundersanne/osbuild-installer-frontend/builds/154846069"
+  }
+}
